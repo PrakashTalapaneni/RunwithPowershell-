@@ -1,5 +1,5 @@
 # Welcome to the RunwithPowershell- repository!
-#This project is created as a part of my learning and to help the powershell community.
+#This project was created for my personal learning and to contribute to Open Source.
 
 ## Disclaimer
 
